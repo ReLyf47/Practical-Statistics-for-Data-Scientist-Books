@@ -6,10 +6,10 @@ This repository contains code reproductions, summaries, and detailed theoretical
 
 ## 📋 Table of Contents
 
-1. [Overview](https://www.google.com/search?q=%23overview&utm_source=gemini)
-2. [Repository Structure](https://www.google.com/search?q=%23repository-structure&utm_source=gemini)
-3. [Chapter Summaries](https://www.google.com/search?q=%23chapter-summaries&utm_source=gemini)
-4. [Installation & Setup](https://www.google.com/search?q=%23installation--setup&utm_source=gemini)
+1. [Overview]
+2. [Repository Structure]
+3. [Chapter Summaries]
+4. [Installation & Setup]
 
 ---
 
